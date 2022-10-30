@@ -1,0 +1,119 @@
+[
+    {
+        "id": "4E19AC8B6F8B4F6689FC25654DA6942C",
+        "price": 199,
+        "title": "Web design and development ",
+       
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 4811,
+        "duration": "20 Hours",
+        "thumbnail_url": "https://i.ibb.co/GFm9Jh3/web.jpg",
+        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+    },
+    {
+        "id": "F88328672F7041F69E21793E22CABD41",
+        "price": 299,
+        "title": "Search Engine Optimization",
+      
+        "category_id": "04",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 880,
+        "duration": "42 Hours",
+        "thumbnail_url": "https://i.ibb.co/cTYSKNL/seo1.jpg",
+        "details": "earch engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+    },
+    {
+        "id": "90B7CD5D45874B70AFAC58506A80FE9B",
+        "price": 99,
+        "title": "Physics learning",
+       
+        "category_id": "04",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 1818,
+        "duration": "32 Hours",
+        "thumbnail_url": "https://i.ibb.co/25kD4zL/physics.jpg",
+        "details": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, with its main goal being to understand how the universe behaves."
+    },
+    {
+        "id": "A989E17FB1B7468C934B4A953597630E",
+        "price": 199,
+        "title": "mathematics",
+      
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 7873,
+        "duration": "20 Hours",
+        "thumbnail_url": "https://i.ibb.co/Dg557cL/math.jpg",
+        "details": "  Mathematics is an area of knowledge that includes such topics as numbers (arithmetic and number theory), formulas and related structures (algebra),Online math solver with free step by step solutions to algebra, calculus, and other math problems. Get help on the web or with our math app. "
+    },
+    {
+        "id": "757C3E7F92A8461DAD1573FC66CC5208",
+        "price": 99,
+        "title": "machine learning",
+       
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 7188,
+        "duration": "14 Hours",
+        "thumbnail_url": "https://i.ibb.co/3vv9S2x/machine.jpg",
+        "details": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without.Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that ..."
+    },
+    {
+        "id": "28B2E56848BF4EEF8C889B361A08F4C1",
+        "price": 299,
+        "title": "Graphics Design",
+        
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 1488,
+        "duration": "1 Hour",
+        "thumbnail_url": "https://i.ibb.co/0hQWf09/graphics.jpg",
+        "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+        "id": "51A88B5A8B9A48B099519CD5F086A832",
+        "price": 399,
+        "title": "Graphics and art",
+       
+        "category_id": "03",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 654,
+        "duration": "32 Hours",
+        "thumbnail_url": "https://i.ibb.co/tDW5Dfk/art.jpg",
+        "details": "Art is a diverse range of human activity, and resulting product, that involves creative or imaginative talent expressive of technical proficiency, beauty,art, also called (to distinguish it from other art forms) visual art, a visual object or experience consciously created through an expression of skill.."
+    },
+    {
+        "id": "AED1DEF6DA854E9A9C754621CFF278A5",
+        "price": 499,
+        "title": "English language",
+        "category_id": "06",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 2788,
+        "duration": "12 Hours",
+        "thumbnail_url": "https://i.ibb.co/pLRJX1q/english.jpg",
+        "details": "English is a West Germanic language of the Indo-European language family, with its earliest forms spoken by the inhabitants of early medieval England."
+    }
+]
